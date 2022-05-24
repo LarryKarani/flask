@@ -18,7 +18,7 @@ oauthlib==1.0.3
 pyasn1==0.3.7
 pyasn1-modules==0.1.5
 PyDispatcher==2.0.5
-PyJWT==1.5.3
+PyJWT==2.4.0
 python-dateutil==2.6.1
 requests==2.18.4
 rsa==3.4.2
